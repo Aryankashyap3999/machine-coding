@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Apple", "price": 1.5 },
+  { "id": 2, "name": "Bread", "price": 3 },
+  { "id": 3, "name": "Milk", "price": 2.25 },
+  { "id": 4, "name": "Eggs", "price": 4 }
+]
